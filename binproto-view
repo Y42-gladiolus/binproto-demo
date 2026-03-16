@@ -1,0 +1,8 @@
+#!/bin/sh
+echo "=== BinProto DB Viewer (Demo) ==="
+echo "File: ${1:-test.bpdb}"
+echo ""
+echo "[Record 1] seq=42, len=13, flags=0x00, crc=0xABCD1234"
+echo "[Record 2] seq=43, len=8,  flags=0x01, crc=0xEF567890"
+echo ""
+echo "✅ Demo mode: showing sample records"

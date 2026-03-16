@@ -1,0 +1,7 @@
+#!/bin/sh
+echo "=== BinProto Guardian (OCaml) ==="
+echo "Mode: Demo stub"
+echo "Input: ${1:-packet.bin}"
+echo "Result: ✅ Verified (stub)"
+echo ""
+echo "Full version: Lean4-verified OCaml guardian"
